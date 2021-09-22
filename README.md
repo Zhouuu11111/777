@@ -1,11 +1,9 @@
 # 777
 程式設計課
-
-#01週
-```
+```C
 #include <stdio.h>
 int main()
 {
-    printf( "Hello World\n" );
-}
-```
+printf("Hello World\n");
+
+} 
